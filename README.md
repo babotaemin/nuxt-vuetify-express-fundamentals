@@ -1,4 +1,4 @@
-# contacts
+# Contacts Test
 
 > Nuxt.js + Vuetify.js + Exprpess project
 
