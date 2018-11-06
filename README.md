@@ -1,6 +1,6 @@
 # contacts
 
-> Nuxt.js + Vuetify.js project
+> Nuxt.js + Vuetify.js + Exprpess project
 
 ## Build Setup
 
